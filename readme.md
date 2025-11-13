@@ -12,6 +12,6 @@ Bem vindo ao repositório! Este é um projeto de exemplo para demonstrar o uso b
 
 ### Adicionando Conteúdo Remotamente
 
---
+---
 
 ## Como Trabalhar com o Git
